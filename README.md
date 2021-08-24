@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning **Node.js** & **express**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dont know why i still use Yahoo mail <a href="https://www.freeiconspng.com/img/32182" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-0.png" width="20" alt="For Windows Icons Yahoo Mail" /></a>
+- ⚡ Fun fact: I dont know why, i still use Yahoo mail <a href="https://www.freeiconspng.com/img/32182" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-0.png" width="20" alt="For Windows Icons Yahoo Mail" /></a>
 
 ### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
