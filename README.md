@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning **Node.js** & **express**
+- 🎓 B.Tech 2nd Year CSE Undergrad @ RIT, Kottayam.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dont know why, I still use Yahoo mail <a href="mailto: ashwinsam01@yahoo.com" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-0.png" width="20" alt="For Windows Icons Yahoo Mail" /></a>
 
