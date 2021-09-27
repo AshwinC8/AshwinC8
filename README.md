@@ -2,7 +2,7 @@
 
 #### Im Ashwin Sam George:
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on something interesting.
 - 🌱 I’m currently learning **Node.js** & **express**
 - 🎓 B.Tech 2nd Year CSE Undergrad @ RIT, Kottayam.
 - 😄 Pronouns: He/Him
