@@ -3,7 +3,7 @@
 #### Im Ashwin Sam George:
 
 - 🔭 I’m currently working on something interesting.
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning MongoDB.
 - 🎓 B.Tech 3rd Year CSE Undergrad @ RIT, Kottayam.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Yes I love Haikyuu.
