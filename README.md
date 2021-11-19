@@ -3,10 +3,10 @@
 #### Im Ashwin Sam George:
 
 - 🔭 I’m currently working on something interesting.
-- 🌱 I’m currently learning **Node.js** & **express**
-- 🎓 B.Tech 2nd Year CSE Undergrad @ RIT, Kottayam.
+- 🌱 I’m currently learning ReactJs
+- 🎓 B.Tech 3rd Year CSE Undergrad @ RIT, Kottayam.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dont know why, I still use Yahoo mail <a href="mailto: ashwinsam01@yahoo.com" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-0.png" width="20" alt="For Windows Icons Yahoo Mail" /></a>
+- ⚡ Fun fact: Yes I love Haikyuu.
 
 ### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
