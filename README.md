@@ -1,4 +1,4 @@
-## Hey Hey Hey!!!  <img src="https://c.tenor.com/H6ryruoLdasAAAAC/haikyuu-bokuto.gif" width="300" alt="Bokuto" />
+## Hey Hey Hey!!!  
 
 #### Im Ashwin Sam George:
 
