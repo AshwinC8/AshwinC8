@@ -14,8 +14,11 @@
 
 ### Connect with me:
 <p align="left">
-<p align="left">
 <a href="https://discordapp.com/users/702409149304012901" target="blank">
-	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
+<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
 </a>&ensp;
 
+<a href="mailto:ashwinsamgeorge@gmail.com" target="blank">
+<img align="center" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30" />
+</a>&ensp;
+</p>
