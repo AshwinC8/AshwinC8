@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning React.
 - 🎓 B.Tech 3rd Year CSE Undergrad @ RIT, Kottayam.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Yes I love Haikyuu.
 
 ### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
