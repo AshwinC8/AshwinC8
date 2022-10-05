@@ -2,9 +2,9 @@
 
 #### Im Ashwin Sam George:
 
-- 🔭 I’m currently working on something interesting.
-- 🌱 I’m currently learning React.
-- 🎓 B.Tech 3rd Year CSE Undergrad @ RIT, Kottayam.
+- 🔭 I’m currently working something interesting.
+- 🌱 I’m currently learning React and SpringBoot.
+- 🎓 B.Tech 4th Year CSE Undergrad @ RIT, Kottayam.
 - 😄 Pronouns: He/Him
 
 ### Github stats
