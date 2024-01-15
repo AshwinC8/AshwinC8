@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skillsets
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,materialui,java,c,cpp,python,bash,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,materialui,java,spring,mysql,docker,python,bash,godot)](https://skillicons.dev)
 
 
 ### Connect with me:
