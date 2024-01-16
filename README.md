@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on few Web devolopment and also creating a game with Godot game engine.
 - 🌱 I’m currently learning SpringBoot & Docker.
 - 🎓 B.Tech CSE Grad from RIT, Kottayam.
+- 💼 Currently working as a Associate Software Engineer at Tarento Technologies.
 
 ### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
