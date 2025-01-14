@@ -2,16 +2,16 @@
 
 #### Im Ashwin Sam George:
 
-- 🔭 I’m currently working on few Web devolopment and also creating a game with Godot game engine.
+- 🔭 I’m currently working on Web Projects and also creating a game with Godot game engine.
 - 🌱 I’m currently learning SpringBoot & Docker.
 - 🎓 B.Tech CSE Grad from RIT, Kottayam.
-- 💼 Currently working as a Associate Software Engineer at Tarento Technologies.
+- 💼 Currently working as a Software Engineer at Tarento Technologies.
 
 ### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skillsets
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,materialui,java,spring,mysql,docker,python,bash,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,materialui,java,spring,go,mysql,docker,python,bash,godot)](https://skillicons.dev)
 
 
 ### Connect with me:
