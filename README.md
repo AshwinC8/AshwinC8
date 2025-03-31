@@ -3,7 +3,7 @@
 #### Im Ashwin Sam George:
 
 - 🔭 I’m currently working on Web Projects and also creating a game with Godot game engine.
-- 🌱 I’m currently learning SpringBoot & Docker.
+- 🌱 I’m currently learning Go.
 - 🎓 B.Tech CSE Grad from RIT, Kottayam.
 - 💼 Currently working as a Software Engineer at Tarento Technologies.
 
