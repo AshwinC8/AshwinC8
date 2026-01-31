@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on Web Projects and also creating a game with Godot game engine.
 - 🌱 I’m currently learning Go.
 - 🎓 B.Tech CSE Grad from RIT, Kottayam.
-- 💼 Currently working as a Software Engineer at Tarento Technologies.
-- https://ashwins-digital-forge.lovable.app
+- 💼 Currently working as a Software Engineer at Oolorr
 
 ### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinC8&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
